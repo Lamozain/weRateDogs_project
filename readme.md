@@ -19,12 +19,6 @@
     <li>analyze and visualize the stored data producing at least 3 insights and 1 visualization.</li>
     <li>report the work by producing two documents namely internal (wrangle_report.pdf or html with 300-600 words) detailing the wrangling efforts and external (act_report.pdf or html, 250 words mininum) detailing the insights and visualizations.</li>
 </ul>
-#### Research Question
-> I  explored based on the folowing broad research question:
-<ol> 
-    <li>What factors affect a loan’s status?</li>
-</ol>
-
 
 ## Conclusion
 
